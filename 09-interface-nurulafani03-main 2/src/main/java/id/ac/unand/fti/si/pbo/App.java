@@ -10,6 +10,9 @@ public class App {
         System.out.println("Total Pembayaran Platinum Rp" + mplatinum.hitungTotalBayar(35000000));
         System.out.println("Total Pembayaran Gold Rp" + mgold.hitungTotalBayar(35000000));
         System.out.println("Total Pembayaran Silver Rp" + msilver.hitungTotalBayar(35000000));
+        //Nama : Nurul Afani
+        //NIM : 2211521015
+        //Kelas : PBO A
 
     }
     
